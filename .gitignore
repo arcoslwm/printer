@@ -1,0 +1,7 @@
+storage/*
+log/*
+vendor/*
+.idea/*
+.env
+.vscode/
+/vendor/
